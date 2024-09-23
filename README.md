@@ -3,9 +3,9 @@
 Nice to meet you!
 
 <br/>
-Most of the projects on my github are focused on crypto-market research.
-On chain Analisis, smart-contract writing, CEX & DEX data processor.
-Algo trading and price forecasting using machine learning and AI.
+- Most of the projects on my github are focused on crypto-market research.
+- On chain Analisis, smart-contract writing, CEX & DEX data processor.
+- Algo trading and price forecasting using machine learning and AI.
 
 <h1 align="center">
   <a href="/">
