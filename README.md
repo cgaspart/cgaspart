@@ -45,7 +45,7 @@ Algo trading and price forecasting using machine learning and AI.<br/>
 </h1>
 
 <p align="right">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=cgaspart&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=cgaspart&show_icons=true&&custom_title=Current%20Public%20Status" align="right" />
 </p> 
 
 ### **Interest:**
