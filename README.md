@@ -44,10 +44,6 @@ Algo trading and price forecasting using machine learning and AI.<br/>
   </a>
 </h1>
 
-<p align="right">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=cgaspart&show_icons=true&&custom_title=Current%20Public%20Status" align="right" />
-</p> 
-
 ### **Interest:**
 - Blockchain Ecosystem & Platforms (Ethereum/Solana)
 - Smart Contract Development / Testing / Auditing (ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155)
